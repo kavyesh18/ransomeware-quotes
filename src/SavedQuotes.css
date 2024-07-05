@@ -1,0 +1,21 @@
+.saved-quotes {
+    margin-top: 40px;
+  }
+  
+  .saved-quotes h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .saved-quotes ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .saved-quotes li {
+    background-color: #e9ecef;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
